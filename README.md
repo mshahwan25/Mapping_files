@@ -6,7 +6,7 @@ Using power query (Excel), I'll compare excel files-names in different folders b
 
     filter file-name by file type
 
-    doing some modications to files-names
+    doing some modications to files-names (removing redundant names, )
     
     merging tables containing the files-names from different folders into one general table
     
